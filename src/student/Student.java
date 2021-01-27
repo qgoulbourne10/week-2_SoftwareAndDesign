@@ -15,7 +15,6 @@ public class Student {
     private int studId;
     private String studName;
     private String progName;
-    private int lebron;
 
     
     
